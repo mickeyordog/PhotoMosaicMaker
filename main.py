@@ -37,6 +37,7 @@ for i in range(pics_per_row):
         output.paste(to_paste, (x, y, x + pic_length, y + pic_length))
 
 output.show()
+output.save('./images/output-oranges.png')
 
 
 
