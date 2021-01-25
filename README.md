@@ -2,6 +2,6 @@ Creates a photo mosaic with the given image. In other words, outputs a photo mad
 
 Example:
 input
-[input-oranges](./images/oranges.jpg)
+<img src='./images/oranges.jpg' alt="input orange image">
 output
 [output-oranges](./images/output-oranges.png)
